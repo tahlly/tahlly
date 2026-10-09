@@ -1,13 +1,9 @@
-# Olá, eu sou a Thalita Bruna 👋
+# Olá, eu sou a Thalita Nascimento 👋
 
-**Desenvolvedora Front-End** em formação, apaixonada por construir interfaces limpas, acessíveis e com boas práticas de engenharia.
+**Desenvolvedora Full-Stack** em formação, apaixonada por construir interfaces limpas, acessíveis e com boas práticas de engenharia.
 
 - 📍 Brasil
-- 🎓 Formação em desenvolvimento Front-End (AlphaEdtech)
-- 💻 Foco em **HTML, CSS, JavaScript/TypeScript** e frameworks modernos
-- ♿ Interesse em **acessibilidade (WCAG)** e design systems
-- 🚀 Sempre aprendendo e transformando estudo em projeto
-
+- 🎓 Formação em desenvolvimento Full-Stack (AlphaEdtech) em andamento (Mar 26 - Atualmente).
 ---
 
 ## 🛠️ Tecnologias
@@ -26,8 +22,8 @@
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [**portfolio-pessoal**](https://github.com/tahlly/portfolio-pessoal) | Meu portfólio pessoal — trajetória, habilidades e projetos | HTML · CSS · JS |
 | [**barbearia-maraca**](https://github.com/tahlly/barbearia-maraca) | SPA full-stack de gestão de barbearia: agendamentos, 4 papéis, API REST, Postgres | TypeScript · Node · Express · Vite |
+| [**portfolio-pessoal**](https://github.com/tahlly/portfolio-pessoal) | Meu portfólio pessoal — trajetória, habilidades e projetos | HTML · CSS · JS |
 | [**focus-tasks**](https://github.com/tahlly/focus-tasks) | App de tarefas em JavaScript puro, com dark mode, drag & drop e WCAG 2.2 AA | Vanilla JS · CSS |
 
 🔗 **Portfólio online:** https://tahlly.github.io/portfolio-pessoal/
