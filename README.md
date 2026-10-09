@@ -1,13 +1,12 @@
 # Olá, eu sou a Thalita Bruna 👋
 
-**Aspirante a Desenvolvedora Full Stack** (Front-End em formação), apaixonada por construir interfaces limpas, acessíveis e com boas práticas de engenharia.
+**Aspirante a Desenvolvedora Full Stack**, apaixonada por construir interfaces limpas, acessíveis e com boas práticas de engenharia.
 
 - 📍 Brasil
-- 🎓 Formação em desenvolvimento Front-End (AlphaEdtech)
+- 🎓 Formação em desenvolvimento Full-Stack na AlphaEdtech (Março 26 - Atualmente). 
 - 💻 Foco em **HTML, CSS, JavaScript/TypeScript** e frameworks modernos
-- ♿ Interesse em **acessibilidade (WCAG)** e design systems
 - 🤖 Desenvolvimento assistido por **IA** (opencode e agentes de codificação)
-- 🚀 Sempre aprendendo e transformando estudo em projeto
+- 🚀 Sempre aprendendo 
 
 ---
 
