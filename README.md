@@ -2,6 +2,7 @@
 
 **Desenvolvedora Front-End** em formação, apaixonada por construir interfaces limpas, acessíveis e com boas práticas de engenharia.
 
+- 📍 Brasil
 - 🎓 Formação em desenvolvimento Front-End (AlphaEdtech)
 - 💻 Foco em **HTML, CSS, JavaScript/TypeScript** e frameworks modernos
 - ♿ Interesse em **acessibilidade (WCAG)** e design systems
@@ -35,13 +36,12 @@
 
 ## 📫 Contato
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thalitabnascimento-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/thalitabnascimento/)
+[![Email](https://img.shields.io/badge/Email-tahlly.dev@gmail.com-EA4335?style=flat&logo=gmail)](mailto:tahlly.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-tahlly-181717?style=flat&logo=github)](https://github.com/tahlly)
 
-<!-- Adicione LinkedIn e e-mail quando quiser:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu--perfil-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-seu@email.com-EA4335?style=flat&logo=gmail)](mailto:seu@email.com)
--->
+📱 (21) 97670-8742
 
 ---
 
-<p align="center"><i>Front-End • Acessibilidade • Aprendizado contínuo</i></p>
+<p align="center"><i>Full Stack em formação • Front-End • Acessibilidade • Aprendizado contínuo</i></p>
