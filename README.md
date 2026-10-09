@@ -1,6 +1,6 @@
 # Olá, eu sou a Thalita Bruna 👋
 
-**Desenvolvedora Front-End** em formação, apaixonada por construir interfaces limpas, acessíveis e com boas práticas de engenharia.
+**Aspirante a Desenvolvedora Full Stack** (Front-End em formação), apaixonada por construir interfaces limpas, acessíveis e com boas práticas de engenharia.
 
 - 📍 Brasil
 - 🎓 Formação em desenvolvimento Front-End (AlphaEdtech)
