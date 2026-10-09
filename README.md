@@ -1,9 +1,14 @@
-# Olá, eu sou a Thalita Nascimento 👋
+# Olá, eu sou a Thalita Bruna 👋
 
-**Desenvolvedora Full-Stack** em formação, apaixonada por construir interfaces limpas, acessíveis e com boas práticas de engenharia.
+**Desenvolvedora Front-End** em formação, apaixonada por construir interfaces limpas, acessíveis e com boas práticas de engenharia.
 
 - 📍 Brasil
-- 🎓 Formação em desenvolvimento Full-Stack (AlphaEdtech) em andamento (Mar 26 - Atualmente).
+- 🎓 Formação em desenvolvimento Front-End (AlphaEdtech)
+- 💻 Foco em **HTML, CSS, JavaScript/TypeScript** e frameworks modernos
+- ♿ Interesse em **acessibilidade (WCAG)** e design systems
+- 🤖 Desenvolvimento assistido por **IA** (opencode e agentes de codificação)
+- 🚀 Sempre aprendendo e transformando estudo em projeto
+
 ---
 
 ## 🛠️ Tecnologias
@@ -18,13 +23,24 @@
 
 ---
 
+## 🤖 IA no desenvolvimento
+
+Uso **ferramentas de IA como apoio ao ciclo de desenvolvimento** — do protótipo à revisão de código — sempre com responsabilidade técnica humana no comando.
+
+- **[opencode](https://opencode.ai)** como par-programador (agentes de codificação)
+- IA para **prototipagem de UI**, escrita de testes, refatoração e revisão
+- Regras e limites versionados no projeto (`AGENTS.md`, `.opencode/`)
+- Fluxo com **portão de qualidade**: toda mudança de IA passa por PR e revisão
+
+---
+
 ## ⭐ Projetos em destaque
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [**barbearia-maraca**](https://github.com/tahlly/barbearia-maraca) | SPA full-stack de gestão de barbearia: agendamentos, 4 papéis, API REST, Postgres | TypeScript · Node · Express · Vite |
 | [**portfolio-pessoal**](https://github.com/tahlly/portfolio-pessoal) | Meu portfólio pessoal — trajetória, habilidades e projetos | HTML · CSS · JS |
-| [**focus-tasks**](https://github.com/tahlly/focus-tasks) | App de tarefas em JavaScript puro, com dark mode, drag & drop e WCAG 2.2 AA | Vanilla JS · CSS |
+| [**barbearia-maraca**](https://github.com/tahlly/barbearia-maraca) | SPA full-stack de gestão de barbearia: agendamentos, 4 papéis, API REST, Postgres | TypeScript · Node · Express · Vite · opencode (IA) |
+| [**focus-tasks**](https://github.com/tahlly/focus-tasks) | App de tarefas em JavaScript puro, com dark mode, drag & drop e WCAG 2.2 AA | Vanilla JS · CSS · opencode (IA) |
 
 🔗 **Portfólio online:** https://tahlly.github.io/portfolio-pessoal/
 
@@ -40,4 +56,4 @@
 
 ---
 
-<p align="center"><i>Full Stack em formação • Front-End • Acessibilidade • Aprendizado contínuo</i></p>
+<p align="center"><i>Full Stack em formação • Front-End • Acessibilidade • IA no desenvolvimento • Aprendizado contínuo</i></p>
