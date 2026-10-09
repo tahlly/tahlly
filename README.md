@@ -1,4 +1,4 @@
-# Olá, eu sou a Thalita Bruna 👋
+# Olá, eu sou a Thalita Nascimento 👋
 
 **Aspirante a Desenvolvedora Full Stack**, apaixonada por construir interfaces limpas, acessíveis e com boas práticas de engenharia.
 
